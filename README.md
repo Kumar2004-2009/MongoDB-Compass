@@ -6,6 +6,7 @@ A collection of notes and resources for mastering MongoDB Compass, a powerful to
 ## Contents
 
 - Getting Started with MongoDB Compass
+  https://youtu.be/f43Q7SoxPl4?si=3wVIC_VmrJTbawLR
 - Connecting to a MongoDB Cluster
 - Navigating the Compass UI
 - Querying and Indexing Data
@@ -23,7 +24,7 @@ This repository contains detailed notes and examples for each topic, including:
 
 ## Learning Resources
 
-- MongoDB Compass Documentation:
+- MongoDB Compass Documentation:https://www.mongodb.com/docs/compass/current/
 - MongoDB Online Courses:
 
 ## Contributing
